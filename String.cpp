@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
- 
+ /////////////////////////////gopal
 int main(){
     int t;
     cin>>t;
